@@ -23,6 +23,7 @@ html {
 
 body {
   font-family: sans-serif;
+  min-height:100vh;
   line-height: 1;
 }
 
@@ -211,7 +212,6 @@ body {
 }
 
 .icon-quotes {
-  height: 2rem;
   width: 2rem;
   margin-bottom: 1rem;
 }
