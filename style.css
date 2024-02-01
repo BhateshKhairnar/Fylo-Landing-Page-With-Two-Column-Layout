@@ -203,7 +203,7 @@ body {
 }
 
 .card {
-  background-color: var(--Light-Grayish-Blue);
+  background-color: #fff;
   width: 72%;
   padding: 4rem;
   border-radius: 0.9rem;
