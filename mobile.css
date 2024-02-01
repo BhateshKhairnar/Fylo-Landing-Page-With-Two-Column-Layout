@@ -1,0 +1,177 @@
+@media (max-width: 79em) {
+  html {
+    font-size: 56.25%;
+  }
+  .logo {
+    height: 4.8rem;
+  }
+
+  .grid-col-2 {
+    column-gap: 4.8rem;
+  }
+}
+
+/**************************/
+/* BELOW 944px (Tablets) */
+/**************************/
+
+@media (max-width: 59em) {
+  html {
+    font-size: 50%;
+  }
+
+  .grid-col-2 {
+    column-gap: 3.6rem;
+  }
+
+  .card {
+    width: 85%;
+  }
+
+  .email-input {
+    padding: 0.7rem;
+  }
+
+  .btn:link,
+  .btn:visited {
+    padding: 1.2rem 4rem;
+  }
+
+  .grid--footer {
+    column-gap: 3.6rem;
+    grid-template-columns: 2fr 1fr 1fr 2fr;
+  }
+
+  .container__content__3 {
+    padding: 0 4.8rem;
+  }
+}
+
+/**************************/
+/* (Smaller tablets) */
+/**************************/
+
+@media (max-width: 43em) {
+  .grid-col-2 {
+    grid-template-columns: 1fr;
+  }
+  .logo {
+    height: 3.6rem;
+  }
+  .card {
+    width: 60%;
+  }
+  .grid--footer {
+    column-gap: 3.6rem;
+  }
+  .container__Img {
+    grid-row-start: 1;
+  }
+  .container__text {
+    text-align: center;
+  }
+  .primary-heading {
+    font-size: 3.6rem;
+  }
+  .primary-text {
+    margin-bottom: 3rem;
+  }
+  .email-input {
+    width: 80%;
+    padding: 1rem;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+  }
+  .btn:link,
+  .btn:visited {
+    text-align: center;
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    padding: 1.4rem 5.8rem;
+  }
+  .email-3 {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    margin-bottom: 2rem;
+  }
+}
+
+/**************************/
+/* (Phones)*/
+/**************************/
+
+@media (max-width: 42em) {
+  .container__content__2 {
+    padding: 3.2rem;
+  }
+  .container__content {
+    padding: 3.2rem;
+  }
+  .card {
+    width: 75%;
+  }
+  .email-input {
+    width: 100%;
+  }
+  .btn:link,
+  .btn:visited {
+    width: 100%;
+  }
+  .email-3 {
+    width: 100%;
+  }
+  .ph,
+  .pt {
+    margin: 0;
+  }
+  .container__text__2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  .btn-link:link,
+  .btn-link:visited {
+    margin-top: 2rem;
+  }
+  .bg-curve-desktop {
+    display: none;
+  }
+  .bg-curve-mobile {
+    display: block;
+  }
+  .card {
+    width: 100%;
+  }
+  .primary-heading {
+    text-align: center;
+    font-size: 3.2rem;
+  }
+  .header {
+    height: 3.6rem;
+    padding: 3.6rem 2.4rem;
+  }
+  .main-nav-list {
+    gap: 3.2rem;
+  }
+  .email-input {
+    margin-bottom: 1rem;
+  }
+  .color-logo {
+    margin: 0;
+  }
+  .grid--footer {
+    grid-template-columns: 1fr;
+    gap: 5rem;
+  }
+  .footer-logo {
+    grid-column: 1;
+    grid-row: 1;
+  }
+  .social-links {
+    justify-content: center;
+  }
+}
