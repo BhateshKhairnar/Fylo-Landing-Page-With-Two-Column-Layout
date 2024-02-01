@@ -19,7 +19,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-###Screenshot
+### Screenshot
 
 ![desktop-design](https://github.com/BhateshKhairnar/Fylo-Landing-Page-With-Two-Column-Layout/assets/111328681/c1d6a6bf-cc7d-4365-836b-326979989823)
 
