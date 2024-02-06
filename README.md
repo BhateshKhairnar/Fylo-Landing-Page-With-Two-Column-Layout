@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop-design](https://github.com/BhateshKhairnar/Fylo-Landing-Page-With-Two-Column-Layout/assets/111328681/c1d6a6bf-cc7d-4365-836b-326979989823)
+![screencapture-bhateshkhairnar-github-io-Fylo-Landing-Page-With-Two-Column-Layout-2024-02-06-18_19_43](https://github.com/BhateshKhairnar/Fylo-Landing-Page-With-Two-Column-Layout/assets/111328681/082e7b52-01f1-4ba2-a9b4-9f84e7d2c580)
 
 
 ### Links
